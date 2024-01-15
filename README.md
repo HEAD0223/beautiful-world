@@ -29,7 +29,6 @@ cd beautiful-world
 
 ## Screenshots
 
-![Beautiful-World](./media/Beautiful-World.mp4)
 ![Beautiful-World](./media/Beautiful-World.gif)
 
 ## Contributing
