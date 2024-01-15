@@ -15,6 +15,7 @@ This repository contains the source code for the Beautiful World website, a sere
 -  **fonts:** Contains font files utilized in the project.
 -  **img:** Holds all the images used in the project.
 -  **js:** Includes the JavaScript file for additional functionality.
+-  **media:** Holds all the media used in the project.
 
 ## Usage
 
