@@ -6,7 +6,7 @@ This repository contains the source code for the Beautiful World website, a sere
 
 -  [Folder Structure](#folder-structure)
 -  [Usage](#usage)
--  [Screenshots](#screenshots)
+-  [Gif](#Gif)
 -  [Contributing](#contributing)
 
 ## Folder Structure
@@ -27,7 +27,7 @@ cd beautiful-world
 
 2. Open the index.html file in a web browser to view the website.
 
-## Screenshots
+## Gif
 
 ![Beautiful-World](./media/Beautiful-World.gif)
 
