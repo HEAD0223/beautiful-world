@@ -1,5 +1,10 @@
 # Beautiful World Project
 
+![Landing](https://img.shields.io/badge/Landing-Beautiful_World-brightgreen)
+![Self Development](https://img.shields.io/badge/Project-Self_Development-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+[![Working on](https://img.shields.io/badge/Working_on-Chrome-informational?logo=google-chrome&logoColor=white)](https://head0223.github.io/beautiful-world/)
+
 This repository contains the source code for the Beautiful World website, a serene platform featuring captivating images of nature accompanied by relaxing music. The unique design allows users to navigate not just in the traditional scroll down manner but also in the Z-coordinate, offering an immersive experience.
 
 ## Table of Contents
